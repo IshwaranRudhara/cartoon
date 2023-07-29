@@ -1,0 +1,13 @@
+#########################
+# Full reference
+# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
+#########################
+
+# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+sources:
+  - href: https://nitter.net/Kirtishbhat/search/rss?f=tweets # Get new feature announcement via this feed
+  - href: https://nitter.net/satishacharya/with_replies/rss
+  - href: https://nitter.net/MANJULtoons/with_replies/rss
+  - href: https://nitter.net/cartoonistrrs/with_replies/rss
+  - href: https://nitter.net/irshadkaptan1/with_replies/rss
+  - href: https://nitter.net/IdharUddhar/with_replies/rss
